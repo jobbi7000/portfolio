@@ -11,16 +11,19 @@
 ## 🛠️ 기술 스택
 
 ### 프론트엔드
+
 - React
 - Next.js
 - TypeScript
 
 ### 백엔드
+
 - Node.js
 - Express
 - MongoDB
 
 ### 도구
+
 - Git
 - Docker
 - AWS
@@ -28,10 +31,12 @@
 ## 🚀 주요 프로젝트
 
 ### E-커머스 플랫폼
+
 - Next.js와 MongoDB를 활용한 풀스택 쇼핑몰
 - 기술: Next.js, MongoDB, Stripe
 
 ### 실시간 채팅 앱
+
 - Socket.io를 활용한 실시간 메신저
 - 기술: React, Socket.io, Redis
 
@@ -42,6 +47,7 @@
 - **위치**: 서울, 대한민국
 
 ### 소셜 미디어
+
 - [LinkedIn](https://linkedin.com)
 - [GitHub](https://github.com)
 - [Twitter](https://twitter.com)

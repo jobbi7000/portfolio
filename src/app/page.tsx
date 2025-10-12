@@ -32,7 +32,7 @@ export default function Home() {
               </div>
               <h1 className="text-3xl font-bold leading-tight">
                 <span className="block bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                  Creative Developer
+                  Time does wait for what I want to do.
                 </span>
               </h1>
               <p className="text-base text-gray-600">
